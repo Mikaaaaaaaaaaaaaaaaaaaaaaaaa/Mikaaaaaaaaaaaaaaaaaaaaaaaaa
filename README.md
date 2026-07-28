@@ -1,4 +1,4 @@
-<h1 align="center">Micael Sanchez</h1>
+<h1 align="center">Micael Sanchez.</h1>
 
 ## 🌟 SOBRE MÍ:
 
@@ -10,7 +10,7 @@ Me interesa especialmente el desarrollo de aplicaciones web, el diseño de inter
 
 Disfruto dedicando gran parte de mi tiempo a aprender nuevas tecnologías, construir proyectos personales y realizar ejercicios prácticos que me permitan potenciar mis habilidades.
 
-Me motiva resolver problemas lógicos, afrontar nuevos desafíos y continuar creciendo tanto a nivel personal como profesional, con el objetivo de consolidar mi carrera en la industria tecnológica
+Me motiva resolver problemas lógicos, afrontar nuevos desafíos y continuar creciendo tanto a nivel personal como profesional, con el objetivo de consolidar mi carrera en la industria tecnológica.
 
 ## 
 
