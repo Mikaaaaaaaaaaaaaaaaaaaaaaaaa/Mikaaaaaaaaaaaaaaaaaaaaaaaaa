@@ -12,7 +12,7 @@ Disfruto dedicando gran parte de mi tiempo a aprender nuevas tecnologías, const
 
 Me motiva resolver problemas lógicos, afrontar nuevos desafíos y continuar creciendo tanto a nivel personal como profesional, con el objetivo de consolidar mi carrera en la industria tecnológica
 
-## ⠀
+## 
 
 ## 📚 STACK TECNOLÓGICO:
 ### Lenguajes
@@ -48,7 +48,7 @@ Me motiva resolver problemas lógicos, afrontar nuevos desafíos y continuar cre
 <img src="https://img.shields.io/badge/CMD-000000?style=flat&logo=windowsterminal&logoColor=white">
 </p>
 
-## ⠀
+## 
 
 ## 📂 PROYECTOS DESTACADOS:
 
@@ -76,7 +76,7 @@ Me motiva resolver problemas lógicos, afrontar nuevos desafíos y continuar cre
 > Gestor de catálogo Pokémon con buscador, control de sesiones y panel de administración (CRUD).
 > **Stack:** `PHP` `MySQL` `HTML` `CSS`
 
-## ⠀
+## 
 <br>
 
 <p align="center">
