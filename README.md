@@ -15,7 +15,7 @@ Me motiva resolver problemas lógicos, afrontar nuevos desafíos y continuar cre
 ## 
 
 ## 📚 STACK TECNOLÓGICO:
-### Lenguajes
+### Lenguajes:
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
@@ -24,9 +24,9 @@ Me motiva resolver problemas lógicos, afrontar nuevos desafíos y continuar cre
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white">
 </p>
 
-### Frameworks y Herramientas
+### Frameworks y Herramientas:
 <p>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white">
 <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white">
 <img src="https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white">
@@ -38,7 +38,7 @@ Me motiva resolver problemas lógicos, afrontar nuevos desafíos y continuar cre
 <img src="https://img.shields.io/badge/Canva-%2300C4CC?style=flat&logo=canva&logoColor=white">
 </p>
 
-### Entornos de Desarrollo y Terminales
+### Entornos de Desarrollo y Terminales:
 <p>
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white">
 <img src="https://img.shields.io/badge/PhpStorm-000000?style=flat&logo=phpstorm&logoColor=white">
@@ -51,7 +51,7 @@ Me motiva resolver problemas lógicos, afrontar nuevos desafíos y continuar cre
 
 ## 
 
-## 📂 PROYECTOS DESTACADOS:
+## 📌 PROYECTOS DESTACADOS:
 
 ### ⚔️ [MythicStack](https://github.com/Mikaaaaaaaaaaaaaaaaaaaaaaaaa/MythicStack)
 > Juego de cartas PvE interactivo con gestión de lógica y persistencia de datos.
