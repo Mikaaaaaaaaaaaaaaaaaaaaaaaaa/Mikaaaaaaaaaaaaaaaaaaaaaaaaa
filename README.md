@@ -35,6 +35,7 @@ Me motiva resolver problemas lógicos, afrontar nuevos desafíos y continuar cre
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white">
+<img src="https://img.shields.io/badge/Canva-%2300C4CC?style=flat&logo=canva&logoColor=white">
 </p>
 
 ### Entornos de Desarrollo y Terminales
