@@ -30,6 +30,7 @@ Me motiva resolver problemas lógicos, afrontar nuevos desafíos y continuar cre
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white">
 <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white">
 <img src="https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white">
+<img src="https://img.shields.io/badge/Mockito-C5D000?style=flat&logo=mockito&logoColor=black">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=flat&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
