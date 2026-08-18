@@ -1,5 +1,3 @@
-<h1 align="center">Micael Sanchez.</h1>
-
 ## 🌟 SOBRE MÍ:
 
 <h3 align="left">Estudiante de la Tecnicatura en Desarrollo Web.</h3>
