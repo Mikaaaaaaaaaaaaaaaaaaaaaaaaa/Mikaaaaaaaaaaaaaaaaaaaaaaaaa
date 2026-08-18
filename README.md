@@ -45,9 +45,9 @@ En este camino, encuentro gran inspiración en el legado de figuras como Alan Tu
 ### Modelado, Arquitectura y Diseño:
 <p>
 <img src="https://img.shields.io/badge/draw.io-F08705?style=flat&logo=diagramsnet&logoColor=white">
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white">
-<img src="https://img.shields.io/badge/Paint_Tool_SAI-2EAA67?style=flat&logo=artstation&logoColor=white">
-<img src="https://img.shields.io/badge/Canva-%2300C4CC?style=flat&logo=canva&logoColor=white">
+<img src="https://img.shields.io/badge/Photoshop_CC-001d34?style=flat&logo=adobephotoshop&logoColor=white">
+<img src="https://img.shields.io/badge/PaintTool_SAI-3e8728?style=flat">
+<img src="https://img.shields.io/badge/Canva-11a4cc?style=flat&logo=canva&logoColor=white">
 </p>
 
 ### Entornos de Desarrollo y Terminales:
