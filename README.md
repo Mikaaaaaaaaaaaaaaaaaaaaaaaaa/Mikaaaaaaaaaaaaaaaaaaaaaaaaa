@@ -62,30 +62,32 @@ En este camino, encuentro gran inspiración en el legado de figuras como Alan Tu
 <img src="https://img.shields.io/badge/CMD-000000?style=flat&logo=windowsterminal&logoColor=white">
 </p>
 
+## 
+
 ## 📌 PROYECTOS DESTACADOS:
 
-### ⚔️ [MythicStack](https://github.com/Mikaaaaaaaaaaaaaaaaaaaaaaaaa/MythicStack)
-> Juego de cartas PvE interactivo con gestión de lógica y persistencia de datos.
+> ### ⚔️ [MythicStack](https://github.com/Mikaaaaaaaaaaaaaaaaaaaaaaaaa/MythicStack)
+> Juego de cartas PvE interactivo con gestión de lógica y persistencia de datos.<br>
 > **Stack:** `Java` `Spring MVC` `Hibernate` `MySQL` `Thymeleaf` `Bootstrap` `HTML` `CSS` `JavaScript`
 
-### 🧠 [Trivia Clash](https://github.com/Mikaaaaaaaaaaaaaaaaaaaaaaaaa/trivia-clash)
-> Aplicación web de preguntas y respuestas dinámica orientada a usuarios.
+> ### 🧠 [Trivia Clash](https://github.com/Mikaaaaaaaaaaaaaaaaaaaaaaaaa/trivia-clash)
+> Aplicación web de preguntas y respuestas dinámica orientada a usuarios.<br>
 > **Stack:** `PHP` `MySQL` `HTML` `CSS`
 
-### 🎓 [Sistema Académico](https://github.com/Mikaaaaaaaaaaaaaaaaaaaaaaaaa/pb2-sistema-academico)
-> Módulo de gestión enfocado en la robustez mediante pruebas unitarias exhaustivas.
+> ### 🎓 [Sistema Académico](https://github.com/Mikaaaaaaaaaaaaaaaaaaaaaaaaa/pb2-sistema-academico)
+> Módulo de gestión enfocado en la robustez mediante pruebas unitarias exhaustivas.<br>
 > **Stack:** `Java` `JUnit`
 
-### 🛢️ [Expo proyecto](https://github.com/Mikaaaaaaaaaaaaaaaaaaaaaaaaa/bdd1-expo-proyecto)
-> Modelado integral relacional, diagramas DER y optimización de consultas SQL.
+> ### 🛢️ [Expo proyecto](https://github.com/Mikaaaaaaaaaaaaaaaaaaaaaaaaa/bdd1-expo-proyecto)
+> Modelado integral relacional, diagramas DER y optimización de consultas SQL.<br>
 > **Stack:** `SQL` `MySQL Workbench`
 
-### 📍 [Morón Responde](https://github.com/Mikaaaaaaaaaaaaaaaaaaaaaaaaa/moron-responde)
-> Plataforma cívica para reportar y consultar incidencias en la vía pública.
+> ### 📍 [Morón Responde](https://github.com/Mikaaaaaaaaaaaaaaaaaaaaaaaaa/moron-responde)
+> Plataforma cívica para reportar y consultar incidencias en la vía pública.<br>
 > **Stack:** `HTML` `CSS` `JavaScript`
 
-### 🟡 [Pokédex](https://github.com/Mikaaaaaaaaaaaaaaaaaaaaaaaaa/pokedex)
-> Gestor de catálogo Pokémon con buscador, control de sesiones y panel de administración (CRUD).
+> ### 🟡 [Pokédex](https://github.com/Mikaaaaaaaaaaaaaaaaaaaaaaaaa/pokedex)
+> Gestor de catálogo Pokémon con buscador, control de sesiones y panel de administración (CRUD).<br>
 > **Stack:** `PHP` `MySQL` `HTML` `CSS`
 
 ## 
