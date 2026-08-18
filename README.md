@@ -10,7 +10,7 @@ Me interesa especialmente el desarrollo de aplicaciones web, el diseño de inter
 
 Disfruto dedicando gran parte de mi tiempo a aprender nuevas tecnologías, construir proyectos personales y realizar ejercicios prácticos que me permitan potenciar mis habilidades.
 
-Me motiva resolver problemas lógicos, afrontar nuevos desafíos y continuar creciendo tanto a nivel personal como profesional, con el objetivo de consolidar mi carrera en la industria tecnológica.
+En este camino, encuentro gran inspiración en el legado de figuras como Alan Turing, Albert Einstein, Steve Jobs, Elon Musk y Jeff Bezos. Guiado por esa misma curiosidad, me motiva resolver problemas lógicos, afrontar nuevos desafíos y continuar creciendo tanto a nivel personal como profesional, con el objetivo de consolidar mi carrera en la industria tecnológica.
 
 ## 
 
@@ -31,10 +31,12 @@ Me motiva resolver problemas lógicos, afrontar nuevos desafíos y continuar cre
 <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white">
 <img src="https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white">
 <img src="https://img.shields.io/badge/Mockito-C5D000?style=flat&logo=mockito&logoColor=black">
+<img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=flat&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white">
 <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white">
 <img src="https://img.shields.io/badge/Mustache-E2572C?style=flat&logo=mustache&logoColor=white">
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white">
