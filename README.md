@@ -38,6 +38,7 @@ En este camino, encuentro gran inspiración en el legado de figuras como Alan Tu
 <img src="https://img.shields.io/badge/Mustache-E2572C?style=flat&logo=mustache&logoColor=white">
 <img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=flat&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat&logo=phpmyadmin&logoColor=white">
 <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white">
 <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white">
 </p>
