@@ -13,7 +13,7 @@ En este camino, encuentro gran inspiración en el legado de figuras como Alan Tu
 ## 
 
 ## 📚 STACK TECNOLÓGICO:
-##### LENGUAJES:
+#### LENGUAJES:
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white">
@@ -22,7 +22,7 @@ En este camino, encuentro gran inspiración en el legado de figuras como Alan Tu
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white">
 </p>
 
-##### FRAMEWORKS Y HERRAMIENTAS:
+#### FRAMEWORKS Y HERRAMIENTAS:
 <p>
 <img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white">
@@ -42,7 +42,7 @@ En este camino, encuentro gran inspiración en el legado de figuras como Alan Tu
 <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white">
 </p>
 
-##### MODELADO, ARQUITECTURA Y DISEÑO:
+#### MODELADO, ARQUITECTURA Y DISEÑO:
 <p>
 <img src="https://img.shields.io/badge/draw.io-F08705?style=flat&logo=diagramsnet&logoColor=white">
 <img src="https://img.shields.io/badge/PaintTool_SAI-3e8728?style=flat">
@@ -50,7 +50,7 @@ En este camino, encuentro gran inspiración en el legado de figuras como Alan Tu
 <img src="https://img.shields.io/badge/Canva-11a4cc?style=flat&logo=canva&logoColor=white">
 </p>
 
-##### ENTORNOS DE DESARROLLO Y TERMINALES:
+#### ENTORNOS DE DESARROLLO Y TERMINALES:
 <p>
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
