@@ -31,8 +31,8 @@ En este camino, encuentro gran inspiración en el legado de figuras como Alan Tu
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white">
+<img src="https://img.shields.io/badge/Mockito-C5D000?style=flat&logo=junit5&logoColor=black&labelColor=FFFFFF">
 <img src="https://img.shields.io/badge/Xdebug-CC5353?style=flat&logo=php&logoColor=white">
-<img src="https://img.shields.io/badge/Mockito-C5D000?style=flat&logo=mockito&logoColor=black">
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white">
 <img src="https://img.shields.io/badge/Mustache-E2572C?style=flat&logo=mustache&logoColor=white">
@@ -40,7 +40,13 @@ En este camino, encuentro gran inspiración en el legado de figuras como Alan Tu
 <img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=flat&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white">
 <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white">
-<img src="https://img.shields.io/badge/Photoshop_CC-31A8FF?style=flat&logo=adobephotoshop&logoColor=white">
+</p>
+
+### Modelado, Arquitectura y Diseño:
+<p>
+<img src="https://img.shields.io/badge/draw.io-F08705?style=flat&logo=diagramsnet&logoColor=white">
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white">
+<img src="https://img.shields.io/badge/Paint_Tool_SAI-2EAA67?style=flat&logo=artstation&logoColor=white">
 <img src="https://img.shields.io/badge/Canva-%2300C4CC?style=flat&logo=canva&logoColor=white">
 </p>
 
@@ -48,8 +54,8 @@ En este camino, encuentro gran inspiración en el legado de figuras como Alan Tu
 <p>
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white">
 <img src="https://img.shields.io/badge/PhpStorm-000000?style=flat&logo=phpstorm&logoColor=white">
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white">
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white">
 <img src="https://img.shields.io/badge/PowerShell-012456?style=flat&logo=powershell&logoColor=white">
 <img src="https://img.shields.io/badge/CMD-000000?style=flat&logo=windowsterminal&logoColor=white">
