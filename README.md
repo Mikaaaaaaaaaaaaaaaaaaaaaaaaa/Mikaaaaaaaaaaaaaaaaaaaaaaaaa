@@ -15,44 +15,45 @@ En este camino, encuentro gran inspiración en el legado de figuras como Alan Tu
 ## 📚 STACK TECNOLÓGICO:
 ### Lenguajes:
 <p>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white">
 </p>
 
 ### Frameworks y Herramientas:
 <p>
 <img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white">
-<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white">
-<img src="https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white">
-<img src="https://img.shields.io/badge/Mockito-C5D000?style=flat&logo=mockito&logoColor=black">
-<img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=flat&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white">
-<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white">
+<img src="https://img.shields.io/badge/Xdebug-CC5353?style=flat&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/Mockito-C5D000?style=flat&logo=mockito&logoColor=black">
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white">
 <img src="https://img.shields.io/badge/Mustache-E2572C?style=flat&logo=mustache&logoColor=white">
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white">
+<img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=flat&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white">
+<img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white">
+<img src="https://img.shields.io/badge/Photoshop_CC-31A8FF?style=flat&logo=adobephotoshop&logoColor=white">
 <img src="https://img.shields.io/badge/Canva-%2300C4CC?style=flat&logo=canva&logoColor=white">
 </p>
 
 ### Entornos de Desarrollo y Terminales:
 <p>
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white">
-<img src="https://img.shields.io/badge/PhpStorm-000000?style=flat&logo=phpstorm&logoColor=white">
+<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white">
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
-<img src="https://img.shields.io/badge/PowerShell-012456?style=flat&logo=powershell&logoColor=white">
+<img src="https://img.shields.io/badge/PhpStorm-000000?style=flat&logo=phpstorm&logoColor=white">
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white">
+<img src="https://img.shields.io/badge/PowerShell-012456?style=flat&logo=powershell&logoColor=white">
 <img src="https://img.shields.io/badge/CMD-000000?style=flat&logo=windowsterminal&logoColor=white">
 </p>
-
-## 
 
 ## 📌 PROYECTOS DESTACADOS:
 
