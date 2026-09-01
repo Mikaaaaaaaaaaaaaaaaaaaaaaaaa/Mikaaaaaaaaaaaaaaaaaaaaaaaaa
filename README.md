@@ -78,7 +78,7 @@ En este camino, encuentro gran inspiración en el legado de figuras como Alan Tu
 > Módulo de gestión enfocado en la robustez mediante pruebas unitarias exhaustivas.<br>
 > **Stack:** `Java` `JUnit`
 
-> ### 🛢️ [Expo proyecto](https://github.com/Mikaaaaaaaaaaaaaaaaaaaaaaaaa/bdd1-expo-proyecto)
+> ### 🛢️ [Expo Proyecto](https://github.com/Mikaaaaaaaaaaaaaaaaaaaaaaaaa/bdd1-expo-proyecto)
 > Modelado integral relacional, diagramas DER y optimización de consultas SQL.<br>
 > **Stack:** `SQL` `MySQL Workbench`
 
