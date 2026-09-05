@@ -66,7 +66,7 @@ En este camino, encuentro gran inspiración en el legado de figuras como Alan Tu
 
 ## 📌 PROYECTOS DESTACADOS:
 
-> ### ⚔️ [MythicStack](https://github.com/Mikaaaaaaaaaaaaaaaaaaaaaaaaa/MythicStack)
+> ### 🃏 [MythicStack](https://github.com/Mikaaaaaaaaaaaaaaaaaaaaaaaaa/MythicStack)
 > Juego de cartas PvE interactivo con gestión de lógica y persistencia de datos.<br>
 > **Stack:** `Java` `Spring MVC` `Hibernate` `MySQL` `Thymeleaf` `Bootstrap` `HTML` `CSS` `JavaScript`
 
