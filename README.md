@@ -16,10 +16,12 @@ En este camino, encuentro gran inspiración en el legado de figuras como Alan Tu
 #### LENGUAJES:
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white">
 </p>
 
 #### FRAMEWORKS Y HERRAMIENTAS:
@@ -41,6 +43,11 @@ En este camino, encuentro gran inspiración en el legado de figuras como Alan Tu
 <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat&logo=phpmyadmin&logoColor=white">
 <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white">
 <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white">
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white">
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=flat&logo=dotnet&logoColor=white">
+<img src="https://img.shields.io/badge/SSMS-Management_Studio-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white">
 </p>
 
 #### MODELADO, ARQUITECTURA Y DISEÑO:
@@ -55,11 +62,14 @@ En este camino, encuentro gran inspiración en el legado de figuras como Alan Tu
 <p>
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white">
 <img src="https://img.shields.io/badge/PhpStorm-000000?style=flat&logo=phpstorm&logoColor=white">
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white">
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white">
 <img src="https://img.shields.io/badge/PowerShell-012456?style=flat&logo=powershell&logoColor=white">
 <img src="https://img.shields.io/badge/CMD-000000?style=flat&logo=windowsterminal&logoColor=white">
+<img src="https://img.shields.io/badge/Notepad++-90E59A?style=flat&logo=notepadplusplus&logoColor=black">
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white">
 </p>
 
 ## 
@@ -69,6 +79,10 @@ En este camino, encuentro gran inspiración en el legado de figuras como Alan Tu
 > ### 🃏 [MythicStack](https://github.com/Mikaaaaaaaaaaaaaaaaaaaaaaaaa/MythicStack)
 > Juego de cartas PvE interactivo con gestión de lógica y persistencia de datos.<br>
 > **Stack:** `Java` `Spring MVC` `Hibernate` `MySQL` `Thymeleaf` `Bootstrap` `HTML` `CSS` `JavaScript`
+
+> ### 🛒 [TechStore](https://github.com/Mikaaaaaaaaaaaaaaaaaaaaaaaaa/tw2-grupo4)
+> Aplicación web de comercio electrónico con catálogo de productos y gestión de carrito de compras.<br>
+> **Stack:** `Angular` `Node.js` `TypeScript` `HTML` `CSS` `Tailwind CSS`
 
 > ### 🧠 [Trivia Clash](https://github.com/Mikaaaaaaaaaaaaaaaaaaaaaaaaa/trivia-clash)
 > Aplicación web de preguntas y respuestas dinámica orientada a usuarios.<br>
