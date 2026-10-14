@@ -109,6 +109,7 @@ En este camino, encuentro gran inspiración en el legado de figuras como Alan Tu
 <br>
 
 ## 📬 CONTACTO:
+<br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/micaelsanchez10/" target="_blank">
