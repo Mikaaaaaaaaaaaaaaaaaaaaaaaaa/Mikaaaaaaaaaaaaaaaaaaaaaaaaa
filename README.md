@@ -11,6 +11,7 @@ Disfruto dedicando gran parte de mi tiempo a aprender nuevas tecnologías, const
 En este camino, encuentro gran inspiración en el legado de figuras como Alan Turing, Albert Einstein, Steve Jobs, Elon Musk y Jeff Bezos. Guiado por esa misma curiosidad, me motiva resolver problemas lógicos, afrontar nuevos desafíos y continuar creciendo tanto a nivel personal como profesional, con el objetivo de consolidar mi carrera en la industria tecnológica.
 
 ## 
+<br>
 
 ## 📚 STACK TECNOLÓGICO:
 #### LENGUAJES:
@@ -73,9 +74,9 @@ En este camino, encuentro gran inspiración en el legado de figuras como Alan Tu
 </p>
 
 ## 
+<br>
 
 ## 📌 PROYECTOS DESTACADOS:
-
 > ### 🃏 [MythicStack](https://github.com/Mikaaaaaaaaaaaaaaaaaaaaaaaaa/MythicStack)
 > Juego de cartas PvE interactivo con gestión de lógica y persistencia de datos.<br>
 > **Stack:** `Java` `Spring MVC` `Hibernate` `MySQL` `Thymeleaf` `Bootstrap` `HTML` `CSS` `JavaScript`
@@ -103,6 +104,25 @@ En este camino, encuentro gran inspiración en el legado de figuras como Alan Tu
 > ### 🟡 [Pokédex](https://github.com/Mikaaaaaaaaaaaaaaaaaaaaaaaaa/pokedex)
 > Gestor de catálogo Pokémon con buscador, control de sesiones y panel de administración (CRUD).<br>
 > **Stack:** `PHP` `MySQL` `HTML` `CSS`
+
+## 
+<br>
+
+## 📬 CONTACTO:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/micaelsanchez10/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  
+  <a href="mailto:micaelsanchez10@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  
+  <a href="https://github.com/Mikaaaaaaaaaaaaaaaaaaaaaaaaa" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
 
 ## 
 <br>
