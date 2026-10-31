@@ -1,3 +1,5 @@
+<h1 align="center">Micael Tobias Sanchez</br>
+
 ## 🌟 SOBRE MÍ:
 
 <h3 align="left">Estudiante de la Tecnicatura en Desarrollo Web.</h3>
