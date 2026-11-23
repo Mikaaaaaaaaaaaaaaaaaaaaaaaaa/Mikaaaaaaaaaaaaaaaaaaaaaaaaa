@@ -103,7 +103,7 @@ En este camino, encuentro gran inspiración en el legado de figuras como Alan Tu
 > Plataforma cívica para reportar y consultar incidencias en la vía pública.<br>
 > **Stack:** `HTML` `CSS` `JavaScript`
 
-> ### 🟡 [Pokédex](https://github.com/Mikaaaaaaaaaaaaaaaaaaaaaaaaa/pokedex)
+> ### 💛 [Pokédex](https://github.com/Mikaaaaaaaaaaaaaaaaaaaaaaaaa/pokedex)
 > Gestor de catálogo Pokémon con buscador, control de sesiones y panel de administración (CRUD).<br>
 > **Stack:** `PHP` `MySQL` `HTML` `CSS`
 
