@@ -2,13 +2,13 @@
 
 ## 🌟 SOBRE MÍ:
 
-<h3 align="left">Estudiante de la Tecnicatura en Desarrollo Web.</h3>
+<h3 align="left">Estudiante de la tecnicatura en desarrollo web.</h3>
 
-Holaaa, me llamo **Micael**, soy un chico apasionado por el desarrollo de software y el aprendizaje constante.
+Holaaa, soy **Micael**, estudiante de desarrollo web, interesado en el desarrollo de software y el aprendizaje continuo.
 
 Me interesa especialmente el desarrollo de aplicaciones web, el diseño de interfaces y la informática retro.
 
-Disfruto dedicando gran parte de mi tiempo a aprender nuevas tecnologías, construir proyectos personales y realizar ejercicios prácticos que me permitan potenciar mis habilidades.
+Disfruto dedicando gran parte de mi tiempo a aprender nuevas tecnologías, construir proyectos personales y realizar ejercicios prácticos que me permitan potenciar mis conocimientos y fortalecer mis habilidades técnicas.
 
 En este camino, encuentro gran inspiración en el legado de figuras como Alan Turing, Albert Einstein, Steve Jobs, Elon Musk y Jeff Bezos. Guiado por esa misma curiosidad, me motiva resolver problemas lógicos, afrontar nuevos desafíos y continuar creciendo tanto a nivel personal como profesional, con el objetivo de consolidar mi carrera en la industria tecnológica.
 
@@ -50,7 +50,10 @@ En este camino, encuentro gran inspiración en el legado de figuras como Alan Tu
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white">
 <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=flat&logo=dotnet&logoColor=white">
+<img src="https://img.shields.io/badge/LINQ-512BD4?style=flat&logo=dotnet&logoColor=white">
 <img src="https://img.shields.io/badge/SSMS-Management_Studio-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white">
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white">
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white">
 </p>
 
 #### MODELADO, ARQUITECTURA Y DISEÑO:
@@ -75,37 +78,45 @@ En este camino, encuentro gran inspiración en el legado de figuras como Alan Tu
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white">
 </p>
 
+#### INTELIGENCIA ARTIFICIAL:
+<p>
+<img src="https://img.shields.io/badge/ChatGPT-000000?style=flat&logo=openai&logoColor=black">
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white">
+<img src="https://img.shields.io/badge/Google_Gemini-8E75B2 style=flat&logo=googlegemini&logoColor=white">
+<img src="https://img.shields.io/badge/Antigravity-4285F4?style=flat&logo=google&logoColor=white">
+</p>
+
 ## 
 <br>
 
-## 📌 PROYECTOS DESTACADOS:
-> ### 🃏 [MythicStack](https://github.com/Mikaaaaaaaaaaaaaaaaaaaaaaaaa/MythicStack)
+##  PROYECTOS DESTACADOS:
+> ###  [MythicStack](https://github.com/Mikaaaaaaaaaaaaaaaaaaaaaaaaa/MythicStack) 🃏
 > Juego de cartas PvE interactivo con gestión de lógica y persistencia de datos.<br>
 > **Stack:** `Java` `Spring MVC` `Hibernate` `MySQL` `Thymeleaf` `Bootstrap` `HTML` `CSS` `JavaScript`
 
-> ### 🛒 [TechStore](https://github.com/Mikaaaaaaaaaaaaaaaaaaaaaaaaa/tw2-grupo4)
+> ###  [TechStore](https://github.com/Mikaaaaaaaaaaaaaaaaaaaaaaaaa/tw2-grupo4) 🛒
 > Aplicación web de comercio electrónico con catálogo de productos y gestión de carrito de compras.<br>
 > **Stack:** `Angular` `Node.js` `TypeScript` `HTML` `CSS` `Tailwind CSS`
 
-> ### 🧠 [Trivia Clash](https://github.com/Mikaaaaaaaaaaaaaaaaaaaaaaaaa/trivia-clash)
+> ###  [Trivia Clash](https://github.com/Mikaaaaaaaaaaaaaaaaaaaaaaaaa/trivia-clash) 🧠
 > Aplicación web de preguntas y respuestas dinámica orientada a usuarios.<br>
 > **Stack:** `PHP` `MySQL` `HTML` `CSS`
 
-> ### 🎓 [Sistema Académico](https://github.com/Mikaaaaaaaaaaaaaaaaaaaaaaaaa/pb2-sistema-academico)
-> Módulo de gestión enfocado en la robustez mediante pruebas unitarias exhaustivas.<br>
-> **Stack:** `Java` `JUnit`
+> ###  [Pokédex](https://github.com/Mikaaaaaaaaaaaaaaaaaaaaaaaaa/pokedex) 💛
+> Gestor de catálogo Pokémon con buscador, control de sesiones y panel de administración (CRUD).<br>
+> **Stack:** `PHP` `MySQL` `HTML` `CSS`
 
-> ### 🛢️ [Expo Proyecto](https://github.com/Mikaaaaaaaaaaaaaaaaaaaaaaaaa/bdd1-expo-proyecto)
-> Modelado integral relacional, diagramas DER y optimización de consultas SQL.<br>
-> **Stack:** `SQL` `MySQL Workbench`
-
-> ### 📍 [Morón Responde](https://github.com/Mikaaaaaaaaaaaaaaaaaaaaaaaaa/moron-responde)
+> ###  [Morón Responde](https://github.com/Mikaaaaaaaaaaaaaaaaaaaaaaaaa/moron-responde) 📍
 > Plataforma cívica para reportar y consultar incidencias en la vía pública.<br>
 > **Stack:** `HTML` `CSS` `JavaScript`
 
-> ### 💛 [Pokédex](https://github.com/Mikaaaaaaaaaaaaaaaaaaaaaaaaa/pokedex)
-> Gestor de catálogo Pokémon con buscador, control de sesiones y panel de administración (CRUD).<br>
-> **Stack:** `PHP` `MySQL` `HTML` `CSS`
+> ###  [Sistema Académico](https://github.com/Mikaaaaaaaaaaaaaaaaaaaaaaaaa/pb2-sistema-academico) 🎓
+> Módulo de gestión enfocado en la robustez mediante pruebas unitarias exhaustivas.<br>
+> **Stack:** `Java` `JUnit`
+
+> ###  [Expo Proyecto](https://github.com/Mikaaaaaaaaaaaaaaaaaaaaaaaaa/bdd1-expo-proyecto) 🛢️
+> Modelado integral relacional, diagramas DER y optimización de consultas SQL.<br>
+> **Stack:** `SQL` `MySQL Workbench`
 
 ## 
 <br>
