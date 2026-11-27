@@ -1,4 +1,4 @@
-<h1 align="center">Micael Tobias Sanchez</br>
+<h1 align="center">Micael Tobias Sanchez</h1>
 
 ## 🌟 SOBRE MÍ:
 
@@ -54,6 +54,8 @@ En este camino, encuentro gran inspiración en el legado de figuras como Alan Tu
 <img src="https://img.shields.io/badge/SSMS-Management_Studio-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white">
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white">
 <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white">
+<img src="https://img.shields.io/badge/xUnit-5C2D91?style=flat&logo=dotnet&logoColor=white">
 </p>
 
 #### MODELADO, ARQUITECTURA Y DISEÑO:
@@ -82,8 +84,9 @@ En este camino, encuentro gran inspiración en el legado de figuras como Alan Tu
 <p>
 <img src="https://img.shields.io/badge/ChatGPT-000000?style=flat&logo=openai&logoColor=black">
 <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white">
-<img src="https://img.shields.io/badge/Google_Gemini-8E75B2 style=flat&logo=googlegemini&logoColor=white">
+<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white">
 <img src="https://img.shields.io/badge/Antigravity-4285F4?style=flat&logo=google&logoColor=white">
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white">
 </p>
 
 ## 
@@ -97,6 +100,14 @@ En este camino, encuentro gran inspiración en el legado de figuras como Alan Tu
 > ###  [TechStore](https://github.com/Mikaaaaaaaaaaaaaaaaaaaaaaaaa/tw2-grupo4) 🛒
 > Aplicación web de comercio electrónico con catálogo de productos y gestión de carrito de compras.<br>
 > **Stack:** `Angular` `Node.js` `TypeScript` `HTML` `CSS` `Tailwind CSS`
+
+> ###  [RuteaYa](https://github.com/Mikaaaaaaaaaaaaaaaaaaaaaaaaa/rutea-ya) 🗺️
+> Plataforma de logística colaborativa que sugiere a los conductores envíos compatibles con sus viajes habituales.<br>
+> **Stack:** `C#` `.NET 10` `ASP.NET Core MVC` `Entity Framework Core` `SQL Server` `xUnit`
+
+> ###  [ChatbotTienda](https://github.com/Mikaaaaaaaaaaaaaaaaaaaaaaaaa/chatbot-tienda) 🤖
+> Chatbot de atención al cliente con IA local que clasifica intenciones, deriva a un agente humano y ofrece un panel de métricas.<br>
+> **Stack:** `C#` `.NET 10` `ASP.NET Core MVC` `Entity Framework Core` `SQL Server` `Ollama` `Llama 3.2`
 
 > ###  [Trivia Clash](https://github.com/Mikaaaaaaaaaaaaaaaaaaaaaaaaa/trivia-clash) 🧠
 > Aplicación web de preguntas y respuestas dinámica orientada a usuarios.<br>
