@@ -17,7 +17,6 @@ En este camino, encuentro gran inspiración en el legado de figuras como Alan Tu
 
 ## 📚 STACK TECNOLÓGICO:
 #### LENGUAJES:
-#### LENGUAJES:
 <p>
 <img src="https://img.shields.io/badge/Java-000000?style=flat&logo=openjdk&logoColor=ED8B00">
 <img src="https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript&logoColor=3178C6">
@@ -88,7 +87,6 @@ En este camino, encuentro gran inspiración en el legado de figuras como Alan Tu
 <img src="https://img.shields.io/badge/Google_Gemini-000000?style=flat&logo=googlegemini&logoColor=8E75B2">
 <img src="https://img.shields.io/badge/Antigravity-000000?style=flat&logo=google&logoColor=4285F4">
 <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=FFFFFF">
-</p>
 </p>
 
 ## 
