@@ -17,76 +17,78 @@ En este camino, encuentro gran inspiración en el legado de figuras como Alan Tu
 
 ## 📚 STACK TECNOLÓGICO:
 #### LENGUAJES:
+#### LENGUAJES:
 <p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white">
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white">
+<img src="https://img.shields.io/badge/Java-000000?style=flat&logo=openjdk&logoColor=ED8B00">
+<img src="https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript&logoColor=3178C6">
+<img src="https://img.shields.io/badge/SQL-000000?style=flat&logo=mysql&logoColor=4479A1">
+<img src="https://img.shields.io/badge/PHP-000000?style=flat&logo=php&logoColor=777BB4">
+<img src="https://img.shields.io/badge/HTML-000000?style=flat&logo=html5&logoColor=E34F26">
+<img src="https://img.shields.io/badge/CSS-000000?style=flat&logo=css3&logoColor=1572B6">
+<img src="https://img.shields.io/badge/C%23-000000?style=flat&logo=csharp&logoColor=239120">
 </p>
 
 #### FRAMEWORKS Y HERRAMIENTAS:
 <p>
-<img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat&logo=spring&logoColor=white">
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white">
-<img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white">
-<img src="https://img.shields.io/badge/Mockito-C5D000?style=flat&logo=junit5&logoColor=black&labelColor=FFFFFF">
-<img src="https://img.shields.io/badge/Xdebug-CC5353?style=flat&logo=php&logoColor=white">
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white">
-<img src="https://img.shields.io/badge/Mustache-E2572C?style=flat&logo=mustache&logoColor=white">
-<img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=flat&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat&logo=phpmyadmin&logoColor=white">
-<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white">
-<img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white">
-<img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white">
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white">
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=flat&logo=dotnet&logoColor=white">
-<img src="https://img.shields.io/badge/LINQ-512BD4?style=flat&logo=dotnet&logoColor=white">
-<img src="https://img.shields.io/badge/SSMS-Management_Studio-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white">
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white">
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white">
-<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white">
-<img src="https://img.shields.io/badge/xUnit-5C2D91?style=flat&logo=dotnet&logoColor=white">
+<img src="https://img.shields.io/badge/Spring_MVC-000000?style=flat&logo=spring&logoColor=6DB33F">
+<img src="https://img.shields.io/badge/Hibernate-000000?style=flat&logo=hibernate&logoColor=59666C">
+<img src="https://img.shields.io/badge/Maven-000000?style=flat&logo=apachemaven&logoColor=C71A36">
+<img src="https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=F05032">
+<img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/Docker-000000?style=flat&logo=docker&logoColor=2496ED">
+<img src="https://img.shields.io/badge/JUnit-000000?style=flat&logo=junit5&logoColor=25A162">
+<img src="https://img.shields.io/badge/Mockito-000000?style=flat&logo=junit5&logoColor=C5D000">
+<img src="https://img.shields.io/badge/Xdebug-000000?style=flat&logo=php&logoColor=CC5353">
+<img src="https://img.shields.io/badge/Bootstrap-000000?style=flat&logo=bootstrap&logoColor=7952B3">
+<img src="https://img.shields.io/badge/Thymeleaf-000000?style=flat&logo=thymeleaf&logoColor=26A65B">
+<img src="https://img.shields.io/badge/Mustache-000000?style=flat&logo=mustache&logoColor=E2572C">
+<img src="https://img.shields.io/badge/Apache-000000?style=flat&logo=apache&logoColor=D22128">
+<img src="https://img.shields.io/badge/MySQL_Workbench-000000?style=flat&logo=mysql&logoColor=4479A1">
+<img src="https://img.shields.io/badge/phpMyAdmin-000000?style=flat&logo=phpmyadmin&logoColor=6C78AF">
+<img src="https://img.shields.io/badge/XAMPP-000000?style=flat&logo=xampp&logoColor=FB7A24">
+<img src="https://img.shields.io/badge/Trello-000000?style=flat&logo=trello&logoColor=0052CC">
+<img src="https://img.shields.io/badge/Angular-000000?style=flat&logo=angular&logoColor=DD0031">
+<img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=flat&logo=tailwindcss&logoColor=06B6D4">
+<img src="https://img.shields.io/badge/Node.js-000000?style=flat&logo=nodedotjs&logoColor=339933">
+<img src="https://img.shields.io/badge/Entity_Framework-000000?style=flat&logo=dotnet&logoColor=512BD4">
+<img src="https://img.shields.io/badge/LINQ-000000?style=flat&logo=dotnet&logoColor=512BD4">
+<img src="https://img.shields.io/badge/SSMS-Management_Studio-000000?style=flat&labelColor=000000&logo=microsoftsqlserver&logoColor=CC2927">
+<img src="https://img.shields.io/badge/Prisma-000000?style=flat&logo=prisma&logoColor=5A67D8">
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/ASP.NET_Core-000000?style=flat&logo=dotnet&logoColor=512BD4">
+<img src="https://img.shields.io/badge/xUnit-000000?style=flat&logo=dotnet&logoColor=5C2D91">
 </p>
 
 #### MODELADO, ARQUITECTURA Y DISEÑO:
 <p>
-<img src="https://img.shields.io/badge/draw.io-F08705?style=flat&logo=diagramsnet&logoColor=white">
-<img src="https://img.shields.io/badge/PaintTool_SAI-3e8728?style=flat">
-<img src="https://img.shields.io/badge/Photoshop_CC-001d34?style=flat&logo=adobephotoshop&logoColor=white">
-<img src="https://img.shields.io/badge/Canva-11a4cc?style=flat&logo=canva&logoColor=white">
+<img src="https://img.shields.io/badge/draw.io-000000?style=flat&logo=diagramsnet&logoColor=F08705">
+<img src="https://img.shields.io/badge/PaintTool_SAI-000000?style=flat">
+<img src="https://img.shields.io/badge/Photoshop_CC-000000?style=flat&logo=adobephotoshop&logoColor=31A8FF">
+<img src="https://img.shields.io/badge/Canva-000000?style=flat&logo=canva&logoColor=11a4cc">
 </p>
 
 #### ENTORNOS DE DESARROLLO Y TERMINALES:
 <p>
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white">
-<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
-<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white">
-<img src="https://img.shields.io/badge/PhpStorm-000000?style=flat&logo=phpstorm&logoColor=white">
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white">
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white">
-<img src="https://img.shields.io/badge/PowerShell-012456?style=flat&logo=powershell&logoColor=white">
-<img src="https://img.shields.io/badge/CMD-000000?style=flat&logo=windowsterminal&logoColor=white">
-<img src="https://img.shields.io/badge/Notepad++-90E59A?style=flat&logo=notepadplusplus&logoColor=black">
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white">
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=FE315D">
+<img src="https://img.shields.io/badge/Visual_Studio_Code-000000?style=flat&logo=visualstudiocode&logoColor=007ACC">
+<img src="https://img.shields.io/badge/Visual_Studio-000000?style=flat&logo=visualstudio&logoColor=5C2D91">
+<img src="https://img.shields.io/badge/PhpStorm-000000?style=flat&logo=phpstorm&logoColor=B345F1">
+<img src="https://img.shields.io/badge/Eclipse-000000?style=flat&logo=eclipse&logoColor=F7941E">
+<img src="https://img.shields.io/badge/Bash-000000?style=flat&logo=gnu-bash&logoColor=4EAA25">
+<img src="https://img.shields.io/badge/PowerShell-000000?style=flat&logo=powershell&logoColor=5391FE">
+<img src="https://img.shields.io/badge/CMD-000000?style=flat&logo=windowsterminal&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/Notepad++-000000?style=flat&logo=notepadplusplus&logoColor=90E59A">
+<img src="https://img.shields.io/badge/Ubuntu-000000?style=flat&logo=ubuntu&logoColor=E95420">
 </p>
 
 #### INTELIGENCIA ARTIFICIAL:
 <p>
-<img src="https://img.shields.io/badge/ChatGPT-000000?style=flat&logo=openai&logoColor=black">
-<img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white">
-<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white">
-<img src="https://img.shields.io/badge/Antigravity-4285F4?style=flat&logo=google&logoColor=white">
-<img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white">
+<img src="https://img.shields.io/badge/ChatGPT-000000?style=flat&logo=openai&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/Claude-000000?style=flat&logo=claude&logoColor=D97757">
+<img src="https://img.shields.io/badge/Google_Gemini-000000?style=flat&logo=googlegemini&logoColor=8E75B2">
+<img src="https://img.shields.io/badge/Antigravity-000000?style=flat&logo=google&logoColor=4285F4">
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=FFFFFF">
+</p>
 </p>
 
 ## 
